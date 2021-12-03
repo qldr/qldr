@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qldr
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Computer Vision.
-- 📫 How to reach me (Coming Soon!)
+- 📫 How to reach me qldrr@protonmail.com
 
 <!---
 qldr/qldr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
